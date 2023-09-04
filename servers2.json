@@ -1,0 +1,8 @@
+{
+  "status": true,
+  "code": 100,
+  "message": "static data ...",
+  "servers": [
+    "https://pippy.anti403.xyz"
+  ]
+}
